@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\cUnitTestings2.exe" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-06-23" time="15:27:02">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="CASPER" user="VEYSEL" user-domain="CASPER" />
+  <culture-info current-culture="tr-TR" current-uiculture="tr-TR" />
+  <test-suite type="Assembly" name="C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\cUnitTestings2.exe" executed="True" result="Success" success="True" time="1.069" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="cUnitTestings2" executed="True" result="Success" success="True" time="1.053" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="LoginTests" executed="True" result="Success" success="True" time="1.053" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="LoginServiceTests" executed="True" result="Success" success="True" time="1.051" asserts="0">
+                <results>
+                  <test-case name="cUnitTestings2.LoginTests.LoginServiceTests.FailLogin_passwordWrong_NotLoggedIn" executed="True" result="Success" success="True" time="0.934" asserts="0" />
+                  <test-case name="cUnitTestings2.LoginTests.LoginServiceTests.LoginTest_paswordMatches_loggedIn" executed="True" result="Success" success="True" time="0.063" asserts="0" />
+                  <test-case name="cUnitTestings2.LoginTests.LoginServiceTests.NotRevokeTest_twofailLoginAttempts_NotRevokeUser" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+                  <test-case name="cUnitTestings2.LoginTests.LoginServiceTests.RevokeAccount_3FailLoginAttempts_RevokeAccount" executed="True" result="Success" success="True" time="0.007" asserts="0" />
+                  <test-case name="cUnitTestings2.LoginTests.LoginServiceTests.SecondLogin_AlreadyLogin_NotPermitAgainLogin" executed="True" result="Success" success="True" time="0.006" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

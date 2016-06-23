@@ -1,0 +1,11 @@
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\obj\Debug\cUnitTestings2.csprojResolveAssemblyReference.cache
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\obj\Debug\cUnitTestings2.Properties.Resources.resources
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\obj\Debug\cUnitTestings2.csproj.GenerateResource.Cache
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\cUnitTestings2.exe
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\cUnitTestings2.pdb
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\FakeItEasy.dll
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\nunit.framework.dll
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\FakeItEasy.xml
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\bin\Debug\nunit.framework.xml
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\obj\Debug\cUnitTestings2.exe
+C:\Users\VEYSEL\Desktop\c#UnitTestingExamples\cUnitTestings2\cUnitTestings2\obj\Debug\cUnitTestings2.pdb
